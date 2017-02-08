@@ -1,0 +1,40 @@
+
+body{
+	background-image:url(assets/images/rainbows.png);
+	background-repeat:repeat;
+}
+
+.navlinks{
+	float:left;
+	font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding:10px;
+}
+#indexContainer{
+	margin-top: 140px;
+    background: #ffffff;
+    border-style: solid;
+    border-width: thin;
+    border-color: #dddddd;
+}
+.profile{
+	float:left;
+}
+#adLorem{
+	float:none;
+}
+#contactContainer{
+	margin-top: 140px;
+    margin-left: 45px;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: thin;
+    background: #ffffff;
+    width: 20%;
+    height: auto;
+}
+.icons{
+	width:75px;
+}
+#footer{
+	text-align:center;
+}
